@@ -3,3 +3,5 @@ class R:
 
 class Nice:
     ...
+
+'another local update'
